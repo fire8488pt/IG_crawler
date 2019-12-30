@@ -12,6 +12,7 @@ pip install beautifulsoup4
 (pip install html5lib)
 
 pip install pandas
+
 /*****************************/
 
 If you are using windows system,please go to All Settings -> Time & Language -> Language -> "Administrative Language Settings"
