@@ -8,7 +8,9 @@ Before using this code,you have to install request,pandas,beautifulsoup
 pip install requests 
 
 pip install beautifulsoup4
+
 (pip install lxml)
+
 (pip install html5lib)
 
 pip install pandas
