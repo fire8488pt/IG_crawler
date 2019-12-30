@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import requests
 import json
 import pandas as pd
@@ -232,11 +226,4 @@ if __name__ == '__main__':
  with open(url_name+'.json',"w") as f:
   f.write(output)
  f.close()
- 
-
-
-# In[ ]:
-
-
-
 
